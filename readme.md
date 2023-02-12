@@ -8,6 +8,7 @@ I am passionate about Cloud engineering, Infrastructure Automation, DevOps cultu
 - 🌱 I’m currently learning: Kubernetes 
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- View some of my hands on DevOps projects Click ![Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects)
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 
