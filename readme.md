@@ -33,7 +33,7 @@ I am passionate about Cloud engineering, Infrastructure Automation, and DevOps c
 ![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=0c77b6)
 ![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=0c77b6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Code-BASH-informational?style=flat&logo=php&logoColor=white&color=0c77b6)
+![](https://img.shields.io/badge/Code-BASH-informational?style=flat&logo=bash&logoColor=white&color=0c77b6)
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=0c77b6)
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0c77b6)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=0c77b6)
