@@ -1,7 +1,7 @@
 <h1>Hello, there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Isaac Ayanda</h1>
 
 <h1>Cloud DevOps Engineer | AWS Certified | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I continously improve my skills, kowledge and experience in Cloud engineering, Infrastructure Automation, and DevOps culture.
+I continuously improve my skills, knowledge and experience in Cloud engineering, Infrastructure Automation, and DevOps culture.
 
 
 
