@@ -1,6 +1,6 @@
 <h1>Hello, there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Isaac Ayanda</h1>
 
-<h1>Cybersecurity Engineer | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>IT and Cybersecurity Specialist | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I continuously improve my skills, knowledge and experience in Cybersecurity.
 
 
