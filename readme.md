@@ -8,7 +8,7 @@ I continuously improve my skills, knowledge and experience in Cybersecurity.
 - I’m currently working on certifications 
 - I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
 - Interest: I love to attend Conferences for Networking and Meetups for learning.
-- View some of my hands on projects. Click: [Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cloud-SOC-Projects/) | [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio)
+- View some of my hands on projects. Click: [Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cloud-SOC-Projects/) | [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio)| [DevOps Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 
