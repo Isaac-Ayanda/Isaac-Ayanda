@@ -5,10 +5,10 @@
 - I continuously improve my skills, knowledge and experience in Cybersecurity, SCripting and automation with Python, DevOps, and Cloud computing.
 - I’m currently working on related certifications and hands on projects.
 - I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
-- View some of my hands on projects:
-- <b>[Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md) </b>
-## [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
-## [DevOps Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
+# View some of my hands on projects:
+- ## [Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md)
+- ## [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
+- ## [DevOps Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 
