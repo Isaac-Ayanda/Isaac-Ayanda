@@ -1,32 +1,15 @@
 <h1>Hello, there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Isaac Ayanda</h1>
 
 <h1>IT and Cybersecurity Professional | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I continuously improve my skills, knowledge and experience in Cybersecurity.
-
-
-
-- I’m currently working on certifications 
+I continuously improve my skills, knowledge and experience in Cybersecurity, Python, DevOps, and Cloud computing.
+- I’m currently working on related certifications and hands on projects.
 - I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
-- Interest: I love to attend Conferences for Networking and Meetups for learning.
-- View some of my hands on projects. Click: [Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cloud-SOC-Projects/) | [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio)| [DevOps Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
+# View some of my hands on projects:
+## [Cybersecurity Projects Portfolio](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md) 
+## [Python Scripting Portfolio](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
+## [DevOps Portfolio](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
-
-
-## 🔧Tools and Technologies 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/IAC-AWSCloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0c77b6)
-![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=0c77b6)
 
 ## 🤝 Let's get connected:
 
