@@ -5,8 +5,8 @@
 - I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
 ## Projects:
 ## ![padlock](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/61efac09-b326-4851-a25c-2751d0a63d3f) [IT and Cybersecurity Projects](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md)
- - ### [DevOps Cloud Projects ](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
-- ### [Python Scripting Projects](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
+## ![devops](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/42b6dbd4-442e-413f-8833-5974997ad8dd) [DevOps Cloud Projects ](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
+## ![python](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/27dc0479-be1f-41b4-9fed-7a3029fe4e2b) [Python Scripting Projects](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 ## Certifications:
