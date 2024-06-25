@@ -4,7 +4,7 @@
 - I’m currently working on related certifications and hands on projects.
 - I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
 ## Projects:
-- ### ![security](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/f626d95c-3c9c-469d-a242-c74140c13b88)  [IT and Cybersecurity Projects](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md)
+- ###  [IT and Cybersecurity Projects](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md)
  - ### [DevOps Cloud Projects ](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
 - ### [Python Scripting Projects](https://github.com/Isaac-Ayanda/Python-Scripting-portfolio/blob/main/README.md)
 
