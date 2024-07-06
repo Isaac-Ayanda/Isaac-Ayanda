@@ -2,7 +2,7 @@
 
 - I continuously improve my skills, knowledge and experience in IT and Cybersecurity, Scripting and automation with Python, DevOps, and Cloud computing.
 - I’m currently working on related certifications and hands on projects.
-- I’m looking to collaborate on: Cybersecurity, DevOps and Cloud Engineering.
+- I’m looking to collaborate on Cybersecurity projects
 ## Projects:
 ## ![padlock](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/61efac09-b326-4851-a25c-2751d0a63d3f) [Cybersecurity Projects](https://github.com/Isaac-Ayanda/Cybersecurity-Projects/blob/main/README.md)
 ## ![devops](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/42b6dbd4-442e-413f-8833-5974997ad8dd) [DevOps Cloud Projects ](https://github.com/Isaac-Ayanda/DevOps_Projects/blob/main/README.md)
