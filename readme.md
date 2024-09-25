@@ -12,8 +12,6 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 ## Certifications:
-- CompTIA Security+ (In focus)
-- Google Certified Cybersecurity Professional Certificate (currently)
 - ISC2 Certified in Cerbersecurity by ISC2
 - Qualys Vulnerability Management Detection and Response
 - [SOC Analyst Certificate by Leveld](https://app.kajabi.com/certificates/0e536ee5/)
