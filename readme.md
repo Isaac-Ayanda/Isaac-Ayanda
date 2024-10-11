@@ -1,6 +1,6 @@
 <h1>Hi, I can help in reducing your cybersecurity risks and ensure compliance || Cybersecurity Analyst | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-- I continuously improve my skills, knowledge and experience in IT and Cybersecurity, Scripting and automation with Python, DevOps, and Cloud computing.
+- I continuously improve my skills, knowledge and experience in IT: Cybersecurity, Scripting and automation with Python, DevOps, and Cloud computing.
 - I’m currently working on related certifications and hands on projects.
 - I’m looking to collaborate on Cybersecurity projects
 ## Projects:
