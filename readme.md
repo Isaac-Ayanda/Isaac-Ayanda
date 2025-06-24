@@ -1,8 +1,8 @@
-<h1>Hi, I can help in reducing your cybersecurity risks and ensure compliance || Information Security Analyst | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>Hi, I can help in reducing your cybersecurity risks and ensure compliance || Cyber Security Risk and Compliance Analyst | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 - I continuously improve my skills, knowledge and experience in IT: Information Security, Scripting and automation with Python, DevOps, and Cloud computing.
 - I’m currently working on related certifications and hands on projects.
-- I’m looking to collaborate on Information Security projects
+- I’m looking to collaborate on Cyber Security Risk and Compliance projects
 ## Projects:
 ## ![padlock](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/61efac09-b326-4851-a25c-2751d0a63d3f)  <b> Cybersecurity Projects </b> 
 - [SOC: SIEM + Honeynet Azure Detection Lab](https://github.com/Isaac-Ayanda/Cloud-SOC-Projects/blob/main/README.md)
@@ -12,6 +12,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 ## Certifications:
+- [CompTIA Security + ce](https://www.credly.com/badges/7017053a-834b-46ee-b351-a60c5db8fe36)
 - [Google Cybersecurity Professional Certification](https://www.credly.com/badges/aa38e73a-e835-45b4-98eb-ac7b0674fdaf/linked_in_profile)
 - [ISC2 Certified in Cerbersecurity by ISC2](https://www.credly.com/badges/6cfb26a9-988b-4d4d-ba76-af8813ed155c)
 - Qualys Vulnerability Management Detection and Response
