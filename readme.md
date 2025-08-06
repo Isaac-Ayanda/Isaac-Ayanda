@@ -1,8 +1,8 @@
-<h1>Hi, I can help in reducing your cybersecurity risks and ensure compliance || Cyber Security Risk and Compliance Analyst | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>Hi, I can help in reducing your cybersecurity risks and ensure compliance || Cyber Security GRC Analyst | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-- I continuously improve my skills, knowledge and experience in IT: Cyber Security, Scripting and automation with Python, DevOps, and Cloud computing.
+- I continuously improve my skills, knowledge and experience in IT: Cyber Security, Scripting and automation with Python, and DevOps.
 - I’m currently working on related certifications and hands on projects.
-- I’m looking to collaborate on Cyber Security Risk and Compliance projects
+- I’m looking to collaborate on Cyber Security Governance, Risk and Compliance projects
 ## Skills Demonstration Projects:
 ## ![padlock](https://github.com/Isaac-Ayanda/Isaac-Ayanda/assets/26657037/61efac09-b326-4851-a25c-2751d0a63d3f)  <b> Cybersecurity Projects </b> 
 - [SOC: SIEM + Honeynet Azure Detection Lab](https://github.com/Isaac-Ayanda/Cloud-SOC-Projects/blob/main/README.md)
